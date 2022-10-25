@@ -5,6 +5,9 @@ contributor:
     agent_name: Northumberland, The Duke of
     gutenberg_agent_id: '55120'
     url: http://www.gutenberg.org/2009/agents/55120
+covers:
+- cover_type: archival
+  image_path: 69121-h/images/cover.jpg
 creator:
   author:
     agent_name: Tormay, Cécile
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/C%C3%A9cile_Tormay
     - https://hu.wikipedia.org/wiki/Tormay_C%C3%A9cile
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69121#An-outlaw-s-diary-revolution
 gutenberg_issued: '2022-10-09'
 identifiers:
   gutenberg: '69121'
